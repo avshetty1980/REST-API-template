@@ -8,7 +8,7 @@
 
 ## General info
 
-This project is simple Lorem ipsum dolor generator.
+This project is REST API template for Node and Express
 
 ## Technologies
 
